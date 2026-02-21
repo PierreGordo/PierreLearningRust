@@ -1,1 +1,0 @@
-/home/peter/Desktop/PierreLearningRust/rust-book-brown-edu/3_chapter/fahrenheit_celsius/target/debug/fahrenheit_celsius: /home/peter/Desktop/PierreLearningRust/rust-book-brown-edu/3_chapter/fahrenheit_celsius/src/main.rs
